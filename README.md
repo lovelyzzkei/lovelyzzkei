@@ -1,7 +1,11 @@
-### Hi there 👋
+- 🔭 I’m currently working on Yonsei University.
+- 🌱 I’m currently learning an Android.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat&logo=appveyor&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/march11381@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelyzzkei&show_icons=true&theme=tokyonight)
 
 <!--
 **lovelyzzkei/lovelyzzkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
