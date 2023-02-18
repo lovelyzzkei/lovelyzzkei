@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Yonsei University.
+- 🔭 I’m currently working at Yonsei University.
 - 🌱 I’m currently learning an Android.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000"/></a>
