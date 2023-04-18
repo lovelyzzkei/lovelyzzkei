@@ -1,5 +1,19 @@
-- 🔭 I’m currently working at Yonsei University.
-- 🌱 I’m currently learning an Android.
+# README
+
+## Introduction
+Hi! My name is Chanyoung Jung.  
+I'm in Yonsei University and interested in OS and Embedded Linux.
+
+## Skills
+
+### Language
+
+```C```, ```C++```, ```Python```, ```Java(Basic)```
+
+### Interested in..
+
+```OS```, ```System Programming```, ```Embedded Linux```
+
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=000000"/></a>
