@@ -1,10 +1,12 @@
 ## Introduction
 Hi! My name is Chanyoung Jung.  
 I'm currently a B.S student in Computer Science at Yonsei University, Seoul, South Korea.
+I'm currently working as undergraduate intern at Mobile Embedded Systems Lab. Yonsei University, supervised by Prof. Hojung Cha. 
 
 ### 🔭 I'm currently interested in
-- OS, Embedded Linux, System programming
-- On-device machine learning
+- OS, System programming
+- On-device machine learning with 3D Object Detection
+- On-device machine leaning with heterogenous processor optimization
 
 
 ## Skills
