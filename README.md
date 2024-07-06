@@ -1,18 +1,18 @@
 ## Introduction
 Hi! My name is Chanyoung Jung.  
-I'm currently a B.S student in Computer Science at Yonsei University, Seoul, South Korea.  
-I'm currently working as Undergraduate Reseach Assistant at Mobile Embedded Systems Lab. Yonsei University, supervised by Prof. Hojung Cha. 
+I'm currently a M.S candidate in Computer Science at Yonsei University, Seoul, South Korea.  
+I'm currently a member of <a href='https://mobed.yonsei.ac.kr/'>Mobile Embedded Systems Lab</a> supervised by Prof. Hojung Cha.
 
 ### 🔭 I'm currently interested in
+- On-device AI with Augmented Reality (AR)
+- On-device AI with 3D Vision
 - OS, System programming
-- On-device machine learning with 3D Object Detection
-- On-device machine learning with heterogenous processor optimization
 
 ### ⚡ Interesting Papers
 
-- NN-Stretch: Automatic Neural Network Branching for Parallel Inference on Heterogeneous Multi-Processors *(Mobisys' 23)* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581791.3596870)
+- Maestro: The Analysis-Simulation Integrated Framework for Mixed Reality *(MobiSys' 24)* [[Paper]]([https://dl.acm.org/doi/pdf/10.1145/3581791.3596870](https://dl.acm.org/doi/10.1145/3643832.3661891))
 - PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators *(IPSN' 23)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583120.3587045)
-- CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices *(Mobisys' 22)* [[Paper]](https://dl.acm.org/doi/10.1145/3498361.3538948)
+- Miriam: Exploiting Elastic Kernels for Real-time Multi-DNN Inference on Edge GPU *(SenSys' 23)* [[Paper]](https://arxiv.org/abs/2307.04339)
 
 ## Skills
 
